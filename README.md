@@ -1,4 +1,4 @@
 #### nyarura
 Personal translation of nyalra's one essay on note.
 Just for fun.
-Please view [here](http://frienkie.eu.org/nyarura/)
+Please view [here]https://frienkie.github.io/nyarura/)
